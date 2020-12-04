@@ -1,0 +1,15 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+"homepage": "https://sahin88.github.io/cv1.git",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
